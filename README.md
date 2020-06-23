@@ -40,5 +40,5 @@ $ curl --location --request POST 'http://localhost:8001/services/mockbin/plugins
 
 ```
 
-[badge-travis-url]: https://travis-ci.org/asayah/kong-plugin/branches
-[badge-travis-image]: https://travis-ci.com/asayah/kong-plugin.svg?branch=master
+[badge-travis-url]: https://travis-ci.com/github/asayah/kong-plugin-upstream-header-router
+[badge-travis-image]: https://travis-ci.com/asayah/kong-plugin-upstream-header-router.svg?branch=master
